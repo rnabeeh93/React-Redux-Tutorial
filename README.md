@@ -13,4 +13,4 @@ npm start
 
 # Notes
 
-This application showcases redux in a react environment, which follows similar principles first introduced in the [redux project](link). That project is commented better, so start there, but there are a few comments in the components folder that may help you with any questions. If you are using google chrome, a helpful extension is [redux devtools](<https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd>), which can help you see the state and backtrack through each step.
+This application showcases redux in a react environment, which follows similar principles first introduced in the [redux project](<https://github.com/rnabeeh93/Redux-Tutorial>). That project is commented better, so start there, but there are a few comments in the components folder that may help you with any questions. If you are using google chrome, a helpful extension is [redux devtools](<https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd>), which can help you see the state and backtrack through each step.
